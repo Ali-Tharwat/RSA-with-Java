@@ -1,5 +1,6 @@
 # RSA Encryption & Decryption 🔐
-*Information Security Assignment 2 - German International University (Spring 2025)* : **Java implementation of the RSA algorithm**  
+**Java implementation of the RSA 256 algorithm** 
+*Information Security Assignment 2 - German International University (Spring 2025)*  
 
 ## 🔧 Implementation
 
